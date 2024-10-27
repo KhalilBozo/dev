@@ -44,3 +44,23 @@ MD5sum: 943701c41013f68e2905a322c4844736
 Filename: ./debs/popoutbuttons.deb
 Depiction: https://khalilbozo.github.io/dev/depictions/?p=popoutbuttons
 
+Package: little12
+Section: Tweaks
+Installed-Size: 1028
+Maintainer: Ryan Nair
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Replaces: com.binksalex.fluidify, com.hius.halfipad, com.vitataf.homegesture, com.ioscreatix.littlex, com.ryannair05.little11
+Provides: com.hius.gesturesi11, com.hius.halfipad, com.vitataf.homegesture, com.ioscreatix.littlex, com.ryannair05.little11
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Conflicts: com.hius.gesturesi11, com.hius.halfipad, com.vitataf.homegesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Description: iPhone 12 gestures and more for iOS 14
+Name: Little12
+Author: Ryan Nair
+Tag: compatible_min::ios13.0
+Size: 364768 
+MD5sum: 2ae329ccc91cb964fa20313f99b171d7
+Filename: ./debs/little12.deb
+Depiction: https://khalilbozo.github.io/dev/depictions/?p=little12
+
+
