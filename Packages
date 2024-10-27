@@ -1,0 +1,66 @@
+Package: com.KhalilBozo.newpackage
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: KhalilBozo.<khalilbozo920@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: KhalilBozo <khalilbozo920@gmail.com>
+Depiction: https://TheLion_SY.github.io
+
+Package: com.KhalilBozo.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: TheLion_SY <khalilbozo920@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: KhalilBozo <khalilbozo920@gmail@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+
+Package: popoutbuttons
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Section: Tweaks
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Name: PopOutButtons
+Description: PopOutButtons bring the iOS 18 buttons popouts to ios 13-17
+Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
+Depiction: https://chariz.com/get/popoutbuttons
+Tag: compatible_min::ios13.0
+Size: 54168
+MD5sum: 943701c41013f68e2905a322c4844736
+Filename: ./debs/popoutbuttons.deb
+Depiction: https://khalilbozo.github.io/dev/depictions/?p=popoutbuttons
+
+Package: little12
+Section: Tweaks
+Installed-Size: 1028
+Maintainer: Ryan Nair
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Replaces: com.binksalex.fluidify, com.hius.halfipad, com.vitataf.homegesture, com.ioscreatix.littlex, com.ryannair05.little11
+Provides: com.hius.gesturesi11, com.hius.halfipad, com.vitataf.homegesture, com.ioscreatix.littlex, com.ryannair05.little11
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Conflicts: com.hius.gesturesi11, com.hius.halfipad, com.vitataf.homegesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Description: iPhone 12 gestures and more for iOS 14
+Name: Little12
+Author: Ryan Nair
+Tag: compatible_min::ios13.0
+Size: 364768 
+MD5sum: 2ae329ccc91cb964fa20313f99b171d7
+Filename: ./debs/little12.deb
+Depiction: https://khalilbozo.github.io/dev/depictions/?p=little12
+
+
