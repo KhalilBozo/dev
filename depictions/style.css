@@ -39,7 +39,7 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     margin-right: 10px;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
     body {
         background-color: #C4819A;
         color: dark;
