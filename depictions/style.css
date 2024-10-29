@@ -65,7 +65,7 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     }
     
     html.can-touch .link-item:active{ /* disable hover effect when input is touch */
-        background-color: #A183EB;
+        background-color: #FEBB00;
     }
 
 }
