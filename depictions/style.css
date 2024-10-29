@@ -15,13 +15,13 @@ body {
 }
 .link-item {
     list-style-type: none;
-    padding: 17px 15px;
+    padding: 15px 15px;
     display: block;
     color: #4f89bb !important;
-    text-align: left;
+    text-align: center;
 }
 .link-item:hover {
-    border: 1px solid #ddd;
+    border: 2px solid #ddd;
     background-color: #f5f5f5;
 }
 
@@ -30,7 +30,7 @@ html.can-touch .link-item:hover{ /* disable hover effect when input is touch */
 }
 
 html.can-touch .link-item:active{ /* disable hover effect when input is touch */
-    background-color: #f5f5f5;
+    background-color: #45F483;
 }
 
 .fa {
@@ -41,12 +41,12 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #1f1f1f;
+        background-color: #A183EB;
         color: white;
     }
 
     .card-header {
-        background-color: #2f2f2f;
+        background-color: #EBCB83;
     }
     .card-body {
         background-color: #1f1f1f;
