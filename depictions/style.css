@@ -26,11 +26,11 @@ body {
 }
 
 html.can-touch .link-item:hover{ /* disable hover effect when input is touch */
-    background-color: #1A2120;
+    background-color: #C4819A;
 }
 
 html.can-touch .link-item:active{ /* disable hover effect when input is touch */
-    background-color: #1A2120;
+    background-color: #C4819A;
 }
 
 .fa {
