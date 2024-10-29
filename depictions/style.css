@@ -26,11 +26,11 @@ body {
 }
 
 html.can-touch .link-item:hover{ /* disable hover effect when input is touch */
-    background-color: #C4819A;
+    background-color: #5606EB;
 }
 
 html.can-touch .link-item:active{ /* disable hover effect when input is touch */
-    background-color: #C4819A;
+    background-color: #5606EB;
 }
 
 .fa {
@@ -47,6 +47,7 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
 
     .card-header {
         background-color: #00EB69;
+		text-color:red;
     }
     .card-body {
         background-color: #F4F00B;
@@ -61,11 +62,11 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     }
 
     html.can-touch .link-item:hover{ /* disable hover effect when input is touch */
-        background-color: #FEBB00;
+        background-color: #5606EB;
     }
     
     html.can-touch .link-item:active{ /* disable hover effect when input is touch */
-        background-color: #FEBB00;
+        background-color: #5606EB;
     }
 
 }
