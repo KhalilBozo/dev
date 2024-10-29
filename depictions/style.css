@@ -49,7 +49,7 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
         background-color: #EBCB83;
     }
     .card-body {
-        background-color: #1f1f1f;
+        background-color: ##FEBB00;
     }
     .jumbotron {
         background-color: #A183EB;
