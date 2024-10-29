@@ -56,7 +56,7 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     }
 
     .list-group-item {
-        background-color: #1f1f1f;
+        background-color: #FEBB00;
         border-color:  #2f2f2f;;
     }
 
