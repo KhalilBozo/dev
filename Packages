@@ -175,3 +175,20 @@ Depiction: https://chariz.com/get/popoutbuttons
 Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
 Name: PopOutButtons
 
+Package: xyz.cypwn.ccplusplus
+Maintainer: CyPwn
+Depiction: https://github.com/KhalilBozo/dev/tree/main/depictions/ccplusplus
+SileoDepiction: https://github.com/KhalilBozo/dev/tree/main/depictions/ccplusplus
+Name: CC++
+Depends: mobilesubstrate, com.opa334.ccsupport
+Architecture: iphoneos-arm64e
+Description: Collection of control center modules
+Author: Yoto
+Section: Tweaks
+Version: 2.0
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/ccplusplus.png
+Pre-Depends: rootless-compat(>= 0.9)
+MD5sum: 1fddfdf99267639aaf64c380d8ae3c97
+SHA1: 7dd1f659580e87c299c74d21f12ae8fbf34dc9b9
+SHA256: c004beb6dbf91900fa2ebdae1c620464c18ef5176522ddeaf81dccd3ba93aa65
+Size: 1048484 
