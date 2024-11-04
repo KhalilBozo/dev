@@ -175,7 +175,7 @@ Depiction: https://chariz.com/get/popoutbuttons
 Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
 Name: PopOutButtons
 
-Package: xyz.cypwn.ccplusplus
+Package: ccplusplus.deb
 Maintainer: CyPwn
 Depiction: https://github.com/KhalilBozo/dev/tree/main/depictions/ccplusplus
 SileoDepiction: https://github.com/KhalilBozo/dev/tree/main/depictions/ccplusplus
